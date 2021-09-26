@@ -2,12 +2,13 @@
 
 ### 📄 Seções
 
-- [ ] Sobre
-- [x] Raças
-- [ ] Curiosidades
-- [ ] Blog/Posts
-- [ ] Saúde
-- [ ] Autores
+- [ ] Sobre (Henrique)
+- [x] Raças (Henrique)
+- [ ] Curiosidades (?)
+- [ ] Blog/Posts (?)
+- [ ] Saúde (Dayana)
+- [ ] Autores (Alexandre)
+- [ ] Formulário (?)
 
 ### ✅ To do
 
