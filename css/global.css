@@ -1,0 +1,67 @@
+:root {
+  --background: #262833;
+  --shape: #3a3d4e;
+  --primary: #ffaf5f;
+  --secondary: #4acfac;
+  --text: #c9d1d9;
+  --white: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 1080px) {
+  /* 15px */
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 720px) {
+  /* 14px */
+  html {
+    font-size: 87.5%;
+  }
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: var(--background);
+  color: var(--text);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.secao {
+  max-width: 1180px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem;
+}
+
+section.secao:nth-child(2) {
+  margin-top: -40px;
+}
+
+section h2 {
+  color: white;
+  background: var(--primary);
+  padding: 1rem;
+  display: inline-block;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+}
