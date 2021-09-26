@@ -30,6 +30,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background: var(--background);
   color: var(--text);
+  scroll-behavior: smooth;
 }
 
 section {
