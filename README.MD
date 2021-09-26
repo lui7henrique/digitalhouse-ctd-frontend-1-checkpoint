@@ -1,6 +1,6 @@
 # 🐕‍🦺 Doguinhus
 
-## 📄 Seções
+### 📄 Seções
 
 - Sobre
 - Raças

@@ -1,0 +1,57 @@
+header {
+  width: 100vw;
+  position: fixed;
+}
+
+header > div {
+  background: transparent;
+
+  color: var(--white);
+  height: 5rem;
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+header h1 {
+  color: var(--primary);
+  font-style: italic;
+}
+
+#navigation {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+header nav {
+  display: flex;
+  gap: 1rem;
+  margin-top: 7px;
+}
+
+header a {
+  text-decoration: none;
+  color: var(--white);
+  transition: all 0.2s ease-in-out;
+  font-weight: 600;
+}
+
+header nav a:hover {
+  color: var(--primary);
+}
+
+#subscribe {
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  border-radius: 15px;
+}
+
+@media (max-width: 720px) {
+  header h1 {
+    display: none;
+  }
+}
