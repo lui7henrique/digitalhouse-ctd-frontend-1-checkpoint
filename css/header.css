@@ -1,11 +1,12 @@
 header {
   width: 100vw;
   position: fixed;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+  z-index: 2;
 }
 
 header > div {
-  background: transparent;
-
   color: var(--white);
   height: 5rem;
   max-width: 1180px;
@@ -50,8 +51,16 @@ header nav a:hover {
   border-radius: 15px;
 }
 
+#subscribe:hover {
+  filter: brightness(0.8);
+}
+
 @media (max-width: 720px) {
   header h1 {
+    display: none;
+  }
+
+  #subscribe {
     display: none;
   }
 }

@@ -1,5 +1,6 @@
 :root {
   --background: #262833;
+  --shape: #3a3d4e;
   --primary: #ffaf5f;
   --secondary: #4acfac;
   --text: #c9d1d9;
@@ -31,8 +32,30 @@ body {
   background: var(--background);
   color: var(--text);
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
-section {
-  height: 100vh;
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.secao {
+  max-width: 1180px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem;
+}
+
+section h2 {
+  color: white;
+  background: var(--primary);
+  padding: 1rem;
+  display: inline-block;
 }

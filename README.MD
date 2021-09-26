@@ -2,12 +2,12 @@
 
 ### 📄 Seções
 
-- Sobre
-- Raças
-- Curiosidades
-- Blog/Posts
-- Saúde
-- Autores
+- [ ] Sobre
+- [ ] Raças
+- [ ] Curiosidades
+- [ ] Blog/Posts
+- [ ] Saúde
+- [ ] Autores
 
 ### ✅ To do
 
