@@ -1,8 +1,48 @@
 #banner {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4)),
-    url(../img/banner.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)),
+    url(../img/banner5.jpg);
   background-size: cover;
   background-attachment: fixed;
   width: 100vw;
   height: 100vh;
+}
+
+#banner-infos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 1rem;
+  padding: 1rem;
+  height: 100%;
+
+  color: white;
+}
+
+#banner-infos h3 {
+  max-width: 800px;
+  font-size: 2rem;
+}
+
+#banner-infos a {
+  text-decoration: none;
+  border: none;
+  outline: none;
+  padding: 1rem;
+  color: white;
+  font-weight: bold;
+  background: var(--primary);
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+}
+
+#banner-infos a:hover {
+  filter: brightness(0.8);
+}
+
+@media (max-width: 720px) {
+  #banner {
+    background-position-x: 50%;
+  }
 }

@@ -3,7 +3,7 @@
 ### 📄 Seções
 
 - [ ] Sobre
-- [ ] Raças
+- [x] Raças
 - [ ] Curiosidades
 - [ ] Blog/Posts
 - [ ] Saúde
