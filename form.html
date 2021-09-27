@@ -5,26 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/global.css" />
-    <link rel="stylesheet" href="./css/header.css" />
-
-    <title>Doguinhos | Inscrição</title>
+    <link rel="stylesheet" href="./css/inscreva-se.css" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <title>Doguinhos | Inscreva-se</title>
   </head>
   <body>
-    <header>
-      <div>
-        <div id="navigation">
-          <h1>Doguinhos</h1>
-          <nav>
-            <a href="./index.html#sobre">Sobre</a>
-            <a href="./index.html#racas">Raças</a>
-            <a href="./index.html#curiosidades">Curiosidades</a>
-            <a href="./index.html#posts">Posts</a>
-            <a href="./index.html#saude">Saúde</a>
-            <a href="./index.html#autores">Autores</a>
-          </nav>
-        </div>
-        <a href="./form.html" target="" id="subscribe">Inscreva-se</a>
+    <aside><img src="./img/form.jpg" alt="" /></aside>
+    <main>
+      <div class="hero">
+        <img src="./img/favicon.png" alt="" />
+        <h1>
+          Inscreva-se
+          <br />
+        </h1>
+        <p>
+          Para receber <strong>notícias</strong>,
+          <strong>curiosidades</strong> e muito mais sobre nossos amigos
+          caninos!
+        </p>
       </div>
-    </header>
+      <form action="./index.html">
+        <div class="input-group">
+          <label for="name">Nome:</label>
+          <input
+            type="text"
+            id="fname"
+            name="fname"
+            placeholder="Luiz Henrique"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <label for="surname">Sobrenome: </label>
+          <input
+            type="text"
+            id="lname"
+            name="lname"
+            placeholder="Delfino"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <label for="name">Email: </label>
+          <input
+            type="email"
+            id="name"
+            placeholder="email@email.com"
+            required
+          />
+        </div>
+
+        <div class="buttons">
+          <button type="submit">Concluir</button>
+        </div>
+      </form>
+    </main>
   </body>
 </html>
