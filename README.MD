@@ -5,10 +5,10 @@
 - [ ] Sobre (Henrique)
 - [x] Raças (Henrique)
 - [ ] Curiosidades (?)
-- [ ] Blog/Posts (?)
+- [ ] Blog/Posts (Wallex)
 - [ ] Saúde (Dayana)
 - [ ] Autores (Alexandre)
-- [ ] Formulário (?)
+- [x] Formulário (Henrique)
 
 ### ✅ To do
 
