@@ -2,7 +2,7 @@
 
 ### 📄 Seções
 
-- [ ] Sobre (Henrique)
+- [x] Sobre (Henrique)
 - [x] Raças (Henrique)
 - [ ] Curiosidades (?)
 - [ ] Blog/Posts (Wallex)
