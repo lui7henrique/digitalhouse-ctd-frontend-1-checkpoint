@@ -1,0 +1,30 @@
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;    
+}
+
+.gridsaude {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+.span-col-4{grid-column: span 4 / auto;}
+
+.span-col-3{grid-column: span 3 / auto;}
+
+
+p {
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+li {
+    padding-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+.gridsaude {
+    margin:2rem
+}
