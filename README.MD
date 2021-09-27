@@ -5,7 +5,7 @@
 - [x] Sobre (Henrique)
 - [x] Raças (Henrique)
 - [ ] Curiosidades (?)
-- [ ] Blog/Posts (Wallex)
+- [ ] Blog/Posts (Anna)
 - [ ] Saúde (Dayana)
 - [ ] Autores (Alexandre)
 - [x] Formulário (Henrique)
