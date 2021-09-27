@@ -34,11 +34,19 @@ header nav {
   margin-top: 7px;
 }
 
+header li {
+  list-style: none;
+}
+
 header a {
   text-decoration: none;
   color: var(--white);
   transition: all 0.2s ease-in-out;
   font-weight: 600;
+}
+
+a:active {
+  color: red;
 }
 
 header nav a:hover {
@@ -48,7 +56,7 @@ header nav a:hover {
 #subscribe {
   padding: 0.5rem 1rem;
   background: var(--primary);
-  border-radius: 15px;
+  border-radius: 5px;
 }
 
 #subscribe:hover {

@@ -1,0 +1,23 @@
+.sobre {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .sobre {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sobre img {
+  width: 100%;
+}
+
+.sobre .texto {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: justify;
+  line-height: 1.5;
+}
