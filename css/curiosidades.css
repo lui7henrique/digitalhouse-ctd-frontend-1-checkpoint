@@ -1,1 +1,18 @@
+    #myCarousel{
+      display: flex;
+      max-width: 1180px;
+      padding: 1rem;
+      margin: 0 auto;
+    }
+ li {
+    display: flex;
+    background: var(--shape);
+    position: relative;
+    list-style-type: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1rem;
+    margin: 5px;
+    color: black;
+  }
 
