@@ -1,1 +1,30 @@
+.curiosidades-titulo img {
+  height: 100%;
+  width: 100%;
+}
 
+.divisao {
+  margin-top: 40px;
+}
+
+.curiosidades-titulo {
+  font-size: 2rem;
+  color: aliceblue;
+  margin-top: 3rem;
+  text-align: center;
+  border-bottom: 1px solid var(--shape);
+}
+
+.curiosidades-titulo cite {
+  font-size: medium;
+}
+
+.gridcuriosidade li {
+  padding-bottom: 1rem;
+  margin-left: 2rem;
+  padding-top: 30px;
+}
+
+.gridcuriosidade {
+  margin: 1rem;
+}
