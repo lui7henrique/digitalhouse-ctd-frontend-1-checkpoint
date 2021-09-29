@@ -4,13 +4,19 @@
       padding: 1rem;
     }
   li {
-      display: flex;
-      background: var(--shape);
-      position: relative;
+      display: flexbox;
       list-style-type: none;
+  
+    }
+    h4{
+      background: var(--shape);
+      padding: 10px;
       border-radius: 10px;
-      padding: 1rem;
       text-align: center;
-      align-items: center;
+    }
+    img{
+      width: 1180px;
+      height: 780px;
     }
 
+  
