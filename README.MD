@@ -1,5 +1,8 @@
 # 🐕‍🦺 Doguinhus
 
+### 👤 Integrantes 
+- Luiz Henrique
+
 ### 📄 Seções
 
 - [x] Sobre (Henrique)
@@ -27,5 +30,3 @@
 - [x] Formulário de login, cujo acesso é feito no header.
 - [x] Todo o site deve estar responsivo.
 
-### 👤 Integrantes 
-- Luiz Henrique
