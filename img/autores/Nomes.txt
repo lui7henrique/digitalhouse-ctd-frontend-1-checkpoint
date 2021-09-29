@@ -1,0 +1,12 @@
+roberta = luiz
+marcela = dayana
+andréia = Alexandre
+
+
+HTML
+
+   <div class="pessoa">
+   <div class="pessoa__imagem pessoa__imagem--roberta"></div>
+   <span class="pessoa__nome">Roberta</span>
+   <span class="pessoa__funcao">Conteúdo</span>
+   </div>
