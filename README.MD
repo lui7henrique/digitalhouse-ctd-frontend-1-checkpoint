@@ -3,15 +3,20 @@
 ### 👤 Integrantes 
 - Luiz Henrique
 - Dayana Miranda
+- Alexandre S. Bastos
+- Anna Karla
+- Wállex de França
+- Marcelo Cabral
+- Israel Almeida
 
 ### 📄 Seções
 
 - [x] Sobre (Henrique)
 - [x] Raças (Henrique)
-- [x] Curiosidades (Wallex & Marcelo)
+- [x] Curiosidades (Wallex & Israel)
 - [x] Blog/Posts (Anna)
 - [x] Saúde (Dayana)
-- [x] Autores (Alexandre)
+- [x] Autores (Alexandre & Marcelo)
 - [x] Formulário (Henrique)
 
 ### ✅ To do
