@@ -1,4 +1,4 @@
-# 🐕‍🦺 Doguinhus
+# 🐕‍🦺 Doguinhos
 
 ### 👤 Integrantes 
 - Luiz Henrique
@@ -9,17 +9,17 @@
 - [x] Sobre (Henrique)
 - [x] Raças (Henrique)
 - [x] Curiosidades (Wallex & Marcelo)
-- [ ] Blog/Posts (Anna)
-- [ ] Saúde (Dayana)
-- [ ] Autores (Alexandre)
+- [x] Blog/Posts (Anna)
+- [x] Saúde (Dayana)
+- [x] Autores (Alexandre)
 - [x] Formulário (Henrique)
 
 ### ✅ To do
 
-- [ ] Todo o trabalho tem de ser entregue no gitpages, o link do repositório também precisa ser disponibilizado diretamente no formulário: https://forms.gle/z28d76wGa4G8sWJt7.
-- [x] O banner deve ter o efeito parallax, (pesquise por background-attachment.)
-- [x] O head deve variar de acordo com a página atual. Ex: Na página do filme peter pan ficaria: DH Flix | Peter Pan
-- [x] Header deve conter 5 itens além da logo. Cada item deve linkar com uma parte do site ou uma página externa.
+- [x] Todo o trabalho tem de ser entregue no gitpages, o link do repositório também precisa ser disponibilizado diretamente no formulário: https://forms.gle/z28d76wGa4G8sWJt7.
+- [x] O banner deve ter o efeito parallax.
+- [x] O head deve variar de acordo com a página atual.
+- [x] Header deve conter 5 itens além da logo (Cada item deve linkar com uma parte do site ou uma página externa)
 - [x] O header tem de ter no mínimo 20px de altura.
 - [x] O site deve ter hover e transições.
 - [x] O site deve ser feito com Bootstrap.
