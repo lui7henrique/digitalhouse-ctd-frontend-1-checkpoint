@@ -12,7 +12,7 @@
   margin: 1rem 0 1rem 0;
 }
 
-.fas:hover,
-.fa-paw:hover {
+.dicas p:hover .fa-paw{
   color: #ffaf5f;
 }
+
