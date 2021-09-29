@@ -1,6 +1,7 @@
-# 🐕‍🦺 Doguinhus
+# 🐕‍🦺 Doguinhus (Autores)
 
-### 👤 Integrantes 
+### 👤 Integrantes
+
 - Luiz Henrique
 - Dayana Miranda
 
@@ -30,4 +31,3 @@
 - [x] Seu site tem de ter uma página de detalhes para cada item listado onde haverá uma explicação sobre o mesmo. Ex: A página de um filme teria sua sinopse, link para o trailer e ficha técnica.
 - [x] Formulário de login, cujo acesso é feito no header.
 - [x] Todo o site deve estar responsivo.
-
