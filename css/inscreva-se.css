@@ -1,0 +1,103 @@
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 768px) {
+  body {
+    grid-template-columns: 1fr;
+  }
+
+  aside {
+    display: none;
+  }
+
+  main {
+    height: 100vh;
+  }
+}
+
+aside {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+aside img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  object-position: center;
+  filter: brightness(0.7);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+main form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  width: 50%;
+}
+
+main .hero {
+  width: 50%;
+  text-align: center;
+}
+
+main .hero img {
+  width: 30%;
+}
+
+main .hero h1 {
+  color: var(--primary);
+  white-space: nowrap;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.input-group input {
+  padding: 1rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttons button {
+  padding: 1rem;
+  color: white;
+  background: var(--primary);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  border-radius: 5px;
+}
+
+.buttons button:hover {
+  filter: brightness(0.8);
+}
