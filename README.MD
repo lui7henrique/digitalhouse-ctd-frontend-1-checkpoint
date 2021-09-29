@@ -2,6 +2,7 @@
 
 ### 👤 Integrantes 
 - Luiz Henrique
+- Dayana Miranda
 
 ### 📄 Seções
 
